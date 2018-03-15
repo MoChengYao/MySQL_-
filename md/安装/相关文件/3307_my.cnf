@@ -63,7 +63,7 @@ quick
 max_allowed_packet				 = 2M
 
 [mysqld_safe]
-log-error						 = /data/3307/mysql_oldmo3306.err
+log-error						 = /data/3307/mysql_oldmo3307.err
 pid-file						 = /data/3307/mysqld.pid
 
 
